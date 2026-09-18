@@ -19,7 +19,6 @@ Free YouTube transcript generator, plus a full suite of AI-powered transcript to
 | 🔍 Browse Transcripts | https://www.tubetotranscript.com/browse |
 | ℹ️ About | https://www.tubetotranscript.com/about |
 | ✉️ Contact | https://www.tubetotranscript.com/contact |
-| 💻 Source | https://github.com/GoharAli16/tubeToTranscript |
 
 ---
 
